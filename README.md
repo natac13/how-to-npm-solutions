@@ -1,0 +1,1 @@
+This is my how-to-npm Node School module solutions
