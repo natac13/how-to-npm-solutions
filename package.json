@@ -4,12 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "author": "Sean C",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/natac13/how-to-npm-solutions"
+  },
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
   }
 }
